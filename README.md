@@ -9,3 +9,9 @@ content --- value
 if you change the content commid id also changes
 echo "hello world" | git hash-object --stdin
 git cat-file commit id
+### feature
+developer is doing some development
+git checkout feature
+git logs 
+developer pushes lot of code during development
+git log --oneline
