@@ -15,3 +15,5 @@ git checkout feature
 git logs 
 developer pushes lot of code during development
 git log --oneline
+### rebase
+rebase is another merge stratagey
