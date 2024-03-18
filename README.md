@@ -17,3 +17,5 @@ developer pushes lot of code during development
 git log --oneline
 ### rebase
 rebase is another merge stratagey
+git branch -D {delete branch}
+git branch -D branch name {delete suggested branch}
