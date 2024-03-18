@@ -19,3 +19,4 @@ git log --oneline
 rebase is another merge stratagey
 git branch -D {delete branch}
 git branch -D branch name {delete suggested branch}
+git diff --{view chage files}
