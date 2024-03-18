@@ -25,3 +25,5 @@ started development
 still writing code
 still adding more code
 completed development
+### CONFLICTS
+this is from developer-1. i want to keep this line of code
