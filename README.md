@@ -22,3 +22,4 @@ git branch -D branch name {delete suggested branch}
 git diff --{view chage files}
 ### SQUASH
 started development
+still writing code
